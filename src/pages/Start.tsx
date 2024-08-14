@@ -1,8 +1,13 @@
 // import { useState,useEffect } from "react"
 
+import Navbaar from "../components/Navbaar"
+
 const Start =() => {
   return (
-    <div>Start</div>
+    <div>
+      <Navbaar/>  
+      start
+    </div>
   )
 }
 
